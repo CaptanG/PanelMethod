@@ -1,6 +1,6 @@
-# Panel Method for Ship Added Mass Calculation
+# Panel Method for an underwater body Added Mass Calculation
 
-This repository implements a **3D panel method** to compute the **added mass** of a ship hull in heave (vertical oscillation). The added mass is an important hydrodynamic property that represents the additional inertia a body experiences due to the surrounding fluid.
+This repository implements a **3D panel method** to compute the **added mass** of an underwater body in heave (vertical oscillation). The added mass is an important hydrodynamic property that represents the additional inertia a body experiences due to the surrounding fluid.
 
 The method discretizes the hull surface into panels, computes influence coefficients between them, and solves a boundary value problem using potential flow theory.
 
